@@ -1,0 +1,277 @@
+[
+  {
+    "index": 33,
+    "top": [
+      {
+        "feature": "Churn Value",
+        "value": 1,
+        "shap": 19.524131846011105
+      },
+      {
+        "feature": "Churn Reason_missing",
+        "value": false,
+        "shap": 0.07400570668692265
+      },
+      {
+        "feature": "Zip Code",
+        "value": 90720,
+        "shap": -3.0659676186761686e-13
+      },
+      {
+        "feature": "Latitude",
+        "value": 33.79499,
+        "shap": -4.5366922024614453e-14
+      },
+      {
+        "feature": "Monthly Charges",
+        "value": 70.45,
+        "shap": -7.011752289898254e-15
+      },
+      {
+        "feature": "CLTV",
+        "value": 3964,
+        "shap": -6.845218836204481e-15
+      },
+      {
+        "feature": "Longitude",
+        "value": -118.065591,
+        "shap": 3.775625645463521e-15
+      },
+      {
+        "feature": "Churn Score",
+        "value": 76,
+        "shap": 3.606490106555782e-15
+      },
+      {
+        "feature": "Tenure Months",
+        "value": 1,
+        "shap": -1.0654454749015052e-15
+      },
+      {
+        "feature": "Streaming Movies_Yes",
+        "value": false,
+        "shap": -1.2793585635328952e-17
+      }
+    ]
+  },
+  {
+    "index": 431,
+    "top": [
+      {
+        "feature": "Churn Value",
+        "value": 1,
+        "shap": 19.5241318460111
+      },
+      {
+        "feature": "Churn Reason_missing",
+        "value": false,
+        "shap": 0.07400570668692265
+      },
+      {
+        "feature": "Zip Code",
+        "value": 96141,
+        "shap": -3.068326842603497e-13
+      },
+      {
+        "feature": "Latitude",
+        "value": 39.117018,
+        "shap": -4.7663695906807746e-14
+      },
+      {
+        "feature": "Monthly Charges",
+        "value": 109.8,
+        "shap": -7.011752289898254e-15
+      },
+      {
+        "feature": "CLTV",
+        "value": 3410,
+        "shap": -6.845218836204481e-15
+      },
+      {
+        "feature": "Longitude",
+        "value": -120.212535,
+        "shap": 3.775625645463521e-15
+      },
+      {
+        "feature": "Churn Score",
+        "value": 78,
+        "shap": 3.606490106555782e-15
+      },
+      {
+        "feature": "Tenure Months",
+        "value": 34,
+        "shap": -3.565182003784084e-15
+      },
+      {
+        "feature": "Streaming Movies_Yes",
+        "value": true,
+        "shap": 4.163336342344337e-17
+      }
+    ]
+  },
+  {
+    "index": 891,
+    "top": [
+      {
+        "feature": "Churn Value",
+        "value": 1,
+        "shap": 19.5241318460111
+      },
+      {
+        "feature": "Churn Reason_missing",
+        "value": false,
+        "shap": 0.07400570668692265
+      },
+      {
+        "feature": "Zip Code",
+        "value": 90403,
+        "shap": -3.0688819541158097e-13
+      },
+      {
+        "feature": "Latitude",
+        "value": 34.031529,
+        "shap": -4.7663695906807746e-14
+      },
+      {
+        "feature": "Monthly Charges",
+        "value": 50.7,
+        "shap": -7.011752289898254e-15
+      },
+      {
+        "feature": "CLTV",
+        "value": 4930,
+        "shap": -6.845218836204481e-15
+      },
+      {
+        "feature": "Longitude",
+        "value": -118.491156,
+        "shap": 3.775625645463521e-15
+      },
+      {
+        "feature": "Churn Score",
+        "value": 90,
+        "shap": 3.606490106555782e-15
+      },
+      {
+        "feature": "Tenure Months",
+        "value": 4,
+        "shap": -3.565182003784084e-15
+      },
+      {
+        "feature": "Streaming Movies_Yes",
+        "value": false,
+        "shap": -1.2793585635328952e-17
+      }
+    ]
+  },
+  {
+    "index": 3083,
+    "top": [
+      {
+        "feature": "Churn Value",
+        "value": 0,
+        "shap": -7.052084346408947
+      },
+      {
+        "feature": "Churn Reason_missing",
+        "value": true,
+        "shap": -0.026730739670681174
+      },
+      {
+        "feature": "Zip Code",
+        "value": 96146,
+        "shap": 1.5572959588538993e-12
+      },
+      {
+        "feature": "Monthly Charges",
+        "value": 80.95,
+        "shap": 4.2682437445540344e-14
+      },
+      {
+        "feature": "Longitude",
+        "value": -120.212401,
+        "shap": 1.5164952626989248e-14
+      },
+      {
+        "feature": "CLTV",
+        "value": 6214,
+        "shap": 1.2509090985268756e-14
+      },
+      {
+        "feature": "Latitude",
+        "value": 39.191797,
+        "shap": 1.2108369862318114e-14
+      },
+      {
+        "feature": "Churn Score",
+        "value": 71,
+        "shap": 7.868705687030797e-15
+      },
+      {
+        "feature": "Tenure Months",
+        "value": 60,
+        "shap": -1.8561541192951836e-16
+      },
+      {
+        "feature": "Streaming Movies_Yes",
+        "value": false,
+        "shap": -4.7704895589362195e-17
+      }
+    ]
+  },
+  {
+    "index": 5290,
+    "top": [
+      {
+        "feature": "Churn Value",
+        "value": 0,
+        "shap": -7.052084346408947
+      },
+      {
+        "feature": "Churn Reason_missing",
+        "value": true,
+        "shap": -0.026730739670681174
+      },
+      {
+        "feature": "Zip Code",
+        "value": 95555,
+        "shap": 1.5572959588538993e-12
+      },
+      {
+        "feature": "Monthly Charges",
+        "value": 24.05,
+        "shap": 4.2682437445540344e-14
+      },
+      {
+        "feature": "Longitude",
+        "value": -124.044354,
+        "shap": 1.5164952626989248e-14
+      },
+      {
+        "feature": "CLTV",
+        "value": 4755,
+        "shap": 1.2509090985268756e-14
+      },
+      {
+        "feature": "Latitude",
+        "value": 41.336354,
+        "shap": 1.2108369862318114e-14
+      },
+      {
+        "feature": "Churn Score",
+        "value": 36,
+        "shap": 7.868705687030797e-15
+      },
+      {
+        "feature": "Tenure Months",
+        "value": 72,
+        "shap": -1.8561541192951836e-16
+      },
+      {
+        "feature": "Streaming Movies_Yes",
+        "value": false,
+        "shap": -4.7704895589362195e-17
+      }
+    ]
+  }
+]

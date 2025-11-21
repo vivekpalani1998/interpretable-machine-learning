@@ -1,0 +1,227 @@
+[
+  {
+    "index": 33,
+    "lime_top": [
+      [
+        "0.00 < Churn Value <= 1.00",
+        0.9986416513655653
+      ],
+      [
+        "Churn Reason_Poor expertise of online support <= 0.00",
+        0.0003370918787531522
+      ],
+      [
+        "Churn Reason_Limited range of services <= 0.00",
+        -0.00013437667762425783
+      ],
+      [
+        "Churn Reason_Poor expertise of phone support <= 0.00",
+        0.0001271789366544892
+      ],
+      [
+        "Churn Reason_Lack of affordable download/upload speed <= 0.00",
+        -0.00012094524124728439
+      ],
+      [
+        "Churn Reason_Product dissatisfaction <= 0.00",
+        -7.99608309988007e-05
+      ],
+      [
+        "Churn Reason_Deceased <= 0.00",
+        -7.588764070574376e-05
+      ],
+      [
+        "Churn Reason_Network reliability <= 0.00",
+        -7.248567094763832e-05
+      ],
+      [
+        "Churn Reason_Price too high <= 0.00",
+        -7.169072956304583e-05
+      ],
+      [
+        "Churn Reason_Extra data charges <= 0.00",
+        6.827081191443268e-05
+      ]
+    ]
+  },
+  {
+    "index": 431,
+    "lime_top": [
+      [
+        "0.00 < Churn Value <= 1.00",
+        0.998666898089508
+      ],
+      [
+        "Churn Reason_Poor expertise of online support <= 0.00",
+        0.00018247154827557852
+      ],
+      [
+        "Churn Reason_Long distance charges <= 0.00",
+        0.0001341062110277487
+      ],
+      [
+        "Churn Reason_Limited range of services <= 0.00",
+        -0.00011908063943226726
+      ],
+      [
+        "Churn Reason_Lack of affordable download/upload speed <= 0.00",
+        0.0001113987435119507
+      ],
+      [
+        "Churn Reason_Service dissatisfaction <= 0.00",
+        9.61802696234697e-05
+      ],
+      [
+        "Churn Reason_Network reliability <= 0.00",
+        -9.612043045177462e-05
+      ],
+      [
+        "Churn Reason_Attitude of support person <= 0.00",
+        -8.518207869889492e-05
+      ],
+      [
+        "Churn Reason_Lack of self-service on Website <= 0.00",
+        -7.714675917954324e-05
+      ],
+      [
+        "Churn Reason_Don't know <= 0.00",
+        -6.985849881915477e-05
+      ]
+    ]
+  },
+  {
+    "index": 891,
+    "lime_top": [
+      [
+        "0.00 < Churn Value <= 1.00",
+        0.9986840488901357
+      ],
+      [
+        "Churn Reason_Limited range of services <= 0.00",
+        -0.00018984995981197102
+      ],
+      [
+        "Churn Reason_Deceased <= 0.00",
+        0.00015175676634300613
+      ],
+      [
+        "Churn Reason_Moved <= 0.00",
+        -0.00012478870342777683
+      ],
+      [
+        "Churn Reason_Price too high <= 0.00",
+        -0.00011457051197231691
+      ],
+      [
+        "Churn Reason_Poor expertise of online support <= 0.00",
+        -0.00011262357453543376
+      ],
+      [
+        "Churn Reason_Product dissatisfaction <= 0.00",
+        9.654622937745912e-05
+      ],
+      [
+        "Churn Reason_Lack of affordable download/upload speed <= 0.00",
+        7.085700029166543e-05
+      ],
+      [
+        "Churn Reason_Poor expertise of phone support <= 0.00",
+        6.942360583860047e-05
+      ],
+      [
+        "Churn Reason_Don't know > 0.00",
+        -6.200866617704694e-05
+      ]
+    ]
+  },
+  {
+    "index": 3083,
+    "lime_top": [
+      [
+        "Churn Value <= 0.00",
+        -0.9986032094692121
+      ],
+      [
+        "Churn Reason_Deceased <= 0.00",
+        0.00027667656651825907
+      ],
+      [
+        "Churn Reason_Poor expertise of online support <= 0.00",
+        0.00026834357637164127
+      ],
+      [
+        "Churn Reason_Limited range of services <= 0.00",
+        0.0001713621118567316
+      ],
+      [
+        "Churn Reason_Poor expertise of phone support <= 0.00",
+        -0.0001592628501853391
+      ],
+      [
+        "Churn Reason_Moved <= 0.00",
+        0.0001358538054594198
+      ],
+      [
+        "Churn Reason_Don't know <= 0.00",
+        0.00011344174312483559
+      ],
+      [
+        "Churn Reason_Competitor offered higher download speeds <= 0.00",
+        0.00010593011944552996
+      ],
+      [
+        "Churn Reason_Price too high <= 0.00",
+        8.22420943975026e-05
+      ],
+      [
+        "Churn Reason_Long distance charges <= 0.00",
+        -7.287870623820975e-05
+      ]
+    ]
+  },
+  {
+    "index": 5290,
+    "lime_top": [
+      [
+        "Churn Value <= 0.00",
+        -0.9986119293860962
+      ],
+      [
+        "Churn Reason_Moved <= 0.00",
+        -0.00012574533063266732
+      ],
+      [
+        "Churn Reason_Long distance charges <= 0.00",
+        -8.649800244162478e-05
+      ],
+      [
+        "Churn Reason_Deceased <= 0.00",
+        -7.906242510339629e-05
+      ],
+      [
+        "Churn Reason_Competitor made better offer <= 0.00",
+        7.532803882131606e-05
+      ],
+      [
+        "Churn Reason_Lack of affordable download/upload speed <= 0.00",
+        -7.158663576879783e-05
+      ],
+      [
+        "Churn Reason_Network reliability <= 0.00",
+        -7.123221584291091e-05
+      ],
+      [
+        "Churn Reason_Lack of self-service on Website <= 0.00",
+        -6.843650497094672e-05
+      ],
+      [
+        "Churn Reason_Limited range of services <= 0.00",
+        5.471751136810993e-05
+      ],
+      [
+        "Churn Reason_Poor expertise of phone support <= 0.00",
+        3.649515535789298e-05
+      ]
+    ]
+  }
+]
